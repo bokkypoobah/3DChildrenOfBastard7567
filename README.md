@@ -9,7 +9,7 @@ With the following image:
 
 <kbd><img src="media/7567_QmTr4fmX3BRsSFjhqouW8YYgQGpdRnpuy7d5dTbrQGRn4j.png" /></kbd>
 
-We have used [3DVoxelPunk #3983](https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/100110578565122962960132899796401350501791819201471712823867467842887027261450) for inspration in the creation of the starting template [media/7567_3DTemplate.vox](media/7567_3DTemplate.vox).
+We have used [3DVoxelPunk #3983](https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/10011057856512296296013289979640135050179181920147171282386746784288702726145) for inspration in the creation of the starting template [media/7567_3DTemplate.vox](media/7567_3DTemplate.vox).
 
 When opened in [MagicaVoxels](https://ephtracy.github.io/):
 
